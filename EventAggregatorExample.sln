@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAggregatorExample", "EventAggregatorExample\EventAggregatorExample.csproj", "{54D65F0E-A1BC-415F-9B4D-7350A06B5BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicExample", "BasicExample\BasicExample.csproj", "{87063DF9-EB4E-417E-A853-F10957C832B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D65F0E-A1BC-415F-9B4D-7350A06B5BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D65F0E-A1BC-415F-9B4D-7350A06B5BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D65F0E-A1BC-415F-9B4D-7350A06B5BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D65F0E-A1BC-415F-9B4D-7350A06B5BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87063DF9-EB4E-417E-A853-F10957C832B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87063DF9-EB4E-417E-A853-F10957C832B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87063DF9-EB4E-417E-A853-F10957C832B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87063DF9-EB4E-417E-A853-F10957C832B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69C01916-DF82-4FD9-9647-7488A3B55744}
+	EndGlobalSection
+EndGlobal
